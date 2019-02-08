@@ -8,7 +8,7 @@ SITEURL = 'https://lily06.github.io/CMPUT404lab5H5'
 
 PATH = 'content'
 
-THEME = '/CMPUT404lab5H5/templates/mytheme'
+THEME = 'templates/mytheme'
 
 TIMEZONE = 'America/Edmonton'
 
